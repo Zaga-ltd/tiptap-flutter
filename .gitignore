@@ -33,3 +33,5 @@ migrate_working_dir/
 codetree.config.json
 codetree_code.txt
 codetree_tree.txt
+config.bat
+node_modules
